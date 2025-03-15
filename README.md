@@ -51,23 +51,23 @@
     <img 
       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=odzqceal11" 
       alt="solved.ac 프로필" 
-      width="300"
+      width="310"
     />
   </a>
 
 <!-- 백준 잔디 -->
-<img src="http://mazandi.herokuapp.com/api?handle=odzqceal11&theme=dark" width="300" alt="백준 잔디" />
+<img src="http://mazandi.herokuapp.com/api?handle=odzqceal11&theme=dark" width="310" alt="백준 잔디" />
 </div>
 
 
 <!-- =========================== STATS SECTION2 =========================== -->
 <div align="center">
 
-[//]: # (git stats)
+<!-- git status -->
 <img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=dracula" width="300" alt="GitHub stats" />
 
-[//]: # (깃 정보)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PHSTD&theme=tokyonight" width="320" />
+<!-- 사용 언어 비율 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&layout=compact&theme=dracula" alt="Top Langs" width="325" />
 
 </div>
 
@@ -75,7 +75,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&layout=compact&theme=dracula" alt="Top Langs" width="300" />
+<!-- 깃 정보 -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PHSTD&theme=tokyonight" width="320" />
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=onedark"  />
 
