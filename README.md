@@ -51,11 +51,12 @@
     <img 
       src="http://mazassumnida.wtf/api/v2/generate_badge?boj=odzqceal11" 
       alt="solved.ac 프로필" 
+      width="300"
     />
   </a>
 
 <!-- 백준 잔디 -->
-<img src="http://mazandi.herokuapp.com/api?handle=odzqceal11&theme=dark" alt="백준 잔디" />
+<img src="http://mazandi.herokuapp.com/api?handle=odzqceal11&theme=dark" width="300" alt="백준 잔디" />
 </div>
 
 
@@ -63,10 +64,10 @@
 <div align="center">
 
 [//]: # (git stats)
-<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=dracula" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=dracula" width="300" alt="GitHub stats" />
 
 [//]: # (깃 정보)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PHSTD&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PHSTD&theme=tokyonight" width="320" />
 
 </div>
 
@@ -74,9 +75,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&layout=compact&theme=dracula" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&layout=compact&theme=dracula" alt="Top Langs" width="300" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=onedark"  />
 
 </div>
 
@@ -105,15 +106,17 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 
-  <!-- AWS & GitHub -->
+  <!-- AWS -->
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
 
   <!-- C, C++, C#, PHP -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" />
+
+  <!-- TypeScript -->
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 <br />
@@ -121,8 +124,9 @@
 <!-- =========================== STUDYING SECTION =========================== -->
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white" />
 </div>
 
 <br />
@@ -154,4 +158,5 @@
 
 <!-- =========================== FOOTER =========================== -->
 
+<br />
 
