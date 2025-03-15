@@ -15,17 +15,33 @@
 </div>
 
 
-
+<!-- ======================= 동물 키우기 ======================= -->
 <div align="center">
-  <!-- 동물 키우기 -->
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PHSTD&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/PHSTD"
-      width="600"
-      height="300"
-      alt="farm"
-    />
-  </a>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PHSTD&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/PHSTD"
+    width="300"
+    height="200"
+  />
+</a>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PHSTD&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/PHSTD?pet-id=688566772730832266"
+    width="300"
+    height="200"
+  />
+</a>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PHSTD&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/PHSTD?pet-id=688566773020237081"
+    width="300"
+    height="200"
+  />
+</a>
+
 </div>
 
 <!-- =========================== STATS SECTION1 =========================== -->
