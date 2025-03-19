@@ -1,0 +1,29 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    #    6시간마다 한번씩
+    - cron: "0 */6 * * *"
+    # 10분 시간마다 한 번
+#    - cron: "*/10 * * * *"
+#    - cron: "* * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GA_PAT }}
+          USERNAME: ${{ secrets.REPOSITORY_OWNER }}
+      - name: Commit & Push
+        run: |
+          git config user.name ${{ secrets.REPOSITORY_OWNER }}
+          git config user.email ${{ secrets.EMAIL }}
+          git add -A .
+          if git
+            git push 
+          fi
