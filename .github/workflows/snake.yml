@@ -1,12 +1,9 @@
-name: Generate Snake
+name: generate animation
 
 on:
+  # run automatically every 24 hours
   schedule:
-    #    6시간마다 한번씩
     - cron: "0 */6 * * *"
-    # 10분 시간마다 한 번
-#    - cron: "0/10 * * * *"
-#    - cron: "* * * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -20,10 +17,10 @@ on:
 
 jobs:
   generate:
-#    permissions:
-#      contents: write
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
@@ -32,23 +29,16 @@ jobs:
         with:
           github_user_name: ${{ secrets.REPOSITORY_OWNER }}
           outputs: |
-#            dist/github-contribution-grid-snake.svg
-#            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-#            dist/github-snake-cus1.svg?color_snake=#FFFAFA&color_dots=#F4F4F4,#FFEB33,#C6ED77,#78C9FF,#F5BB82,#F50201
-#            dist/github-snake-cus2.svg?color_snake=#FFFAFA&color_dots=#F4F4F4,#FFEB33,#C6ED77,#78C9FF,#F5BB82,#F50201
-#            dist/github-snake-cus3.svg?color_snake=#00688A&color_dots=#F4F4F4,#FEF9B0,#C3F09B,#9BE6FF,#F5ACE8,#F56347
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-snake-cus1.svg?color_snake=#FFFAFA&color_dots=#F4F4F4,#FFEB33,#C6ED77,#78C9FF,#F5BB82,#F50201
-            dist/github-snake-cus2.svg?color_snake=#FFFAFA&color_dots=#F4F4F4,#FFEB33,#C6ED77,#78C9FF,#F5BB82,#F50201
-            dist/github-snake-cus3.svg?color_snake=#00688A&color_dots=#F4F4F4,#FEF9B0,#C3F09B,#9BE6FF,#F5ACE8,#F56347
+      
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: master
+          target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GA_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
