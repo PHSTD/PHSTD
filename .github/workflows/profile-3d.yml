@@ -24,6 +24,5 @@ jobs:
           git config user.name ${{ secrets.REPOSITORY_OWNER }}
           git config user.email ${{ secrets.EMAIL }}
           git add -A .
-          if git
-            git push 
-          fi
+          git commit -m "generated"
+          git push
