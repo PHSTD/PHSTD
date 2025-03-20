@@ -97,6 +97,9 @@ overflow: hidden;
 <!-- 구분선 -->
 <hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
 
+<!-- =========================== 블로그 링크 =========================== -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sic2kdif9)](https://velog.io/@sic2kdif9/posts)
+
 <!-- =========================== Tech Stack =========================== -->
 <div style="padding: 2rem;">
 <h3 style="text-align: center; margin-bottom: 2rem; font-size: 1.5rem;">
@@ -181,12 +184,14 @@ overflow: hidden;
 
 </div>
 
+<a href=""></a>
 
 <!-- 구분선 -->
 <hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
 
 <!-- =========================== 푸터 =========================== -->
 <div style="text-align: center; padding: 1rem; background-color: #f5f5f5;">
+
 
 <strong>감사합니다! 😄</strong>
 
