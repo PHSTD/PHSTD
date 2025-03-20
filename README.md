@@ -72,7 +72,9 @@ overflow: hidden;
 </a>
 
 <!-- Streak Stats -->
-[//]: # (<img src="https://streak-stats.demolab.com?user=PHSTD&theme=light" alt="GitHub Streak" style="box-shadow: 0 2px 6px rgba&#40;0, 0, 0, 0.1&#41;; border-radius: 8px; max-width: 420px; width: 420px;" />)
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=PHSTD&theme=vue&locale=ko&card_width=600&card_height=200" alt="GitHub Streak" />
+</a>
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=7&row=1" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 100%;" />
