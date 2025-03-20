@@ -100,7 +100,9 @@ overflow: hidden;
 <hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
 
 <!-- =========================== 소셜 링크 =========================== -->
-🌐 소셜 링크 🌐
+<h3 style="text-align: center; margin-bottom: 2rem; font-size: 1.5rem;">
+🌐 소셜 링크 
+</h3>
   <!-- Velog -->
   <a href="https://velog.io/@sic2kdif9/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=v&logoColor=white" alt="Velog" />
