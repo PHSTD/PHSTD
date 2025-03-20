@@ -99,10 +99,18 @@ overflow: hidden;
 <!-- 구분선 -->
 <hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
 
-<!-- =========================== 블로그 링크 =========================== -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sic2kdif9)](https://velog.io/@sic2kdif9/posts)
+<!-- =========================== 소셜 링크 =========================== -->
+🌐 소셜 링크 🌐
+  <!-- Velog -->
+  <a href="https://velog.io/@sic2kdif9/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=v&logoColor=white" alt="Velog" />
+  </a>
+
+<!-- 구분선 -->
+<hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
 
 <!-- =========================== Tech Stack =========================== -->
+
 <div style="padding: 2rem;">
 <h3 style="text-align: center; margin-bottom: 2rem; font-size: 1.5rem;">
 ✨ Tech Stack ✨
