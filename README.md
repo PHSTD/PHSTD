@@ -77,7 +77,7 @@ overflow: hidden;
 </a>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=7&row=1" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 100%;" />
+<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=8&row=1" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 100%;" />
 
 
 </div>
