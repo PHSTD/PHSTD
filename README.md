@@ -63,14 +63,13 @@ overflow: hidden;
 <!-- 잔디 지렁이 -->
 <img src="https://github.com/PHSTD/PHSTD/blob/output/github-snake-cus3.svg" />
 
-<!-- git status -->
-<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true" alt="GitHub stats" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 400px; " />
+<!-- 본인의 깃허브에 대한 평판을 나타내는 위젯 -->
+<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=graywhite" alt="GitHub stats" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 400px; " />
 
-<!-- 총 사용한 언어들 통계 --> 
+<!-- 사용한 언어 비율 --> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;  width: 300px;" /> 
 </a>
-
 
 <!-- Streak Stats -->
 [//]: # (<img src="https://streak-stats.demolab.com?user=PHSTD&theme=light" alt="GitHub Streak" style="box-shadow: 0 2px 6px rgba&#40;0, 0, 0, 0.1&#41;; border-radius: 8px; max-width: 420px; width: 420px;" />)
