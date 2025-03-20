@@ -64,12 +64,12 @@ overflow: hidden;
 <img src="https://github.com/PHSTD/PHSTD/blob/output/github-snake-cus3.svg" />
 
 <!-- git status -->
-[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true" alt="GitHub stats" style=" box-shadow: 0 2px 6px rgba&#40;0, 0, 0, 0.1&#41;; border-radius: 8px; width: 400px; " />)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PHSTD&hide=contribs,prs&show_icons=true&theme=테마)
+<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true" alt="GitHub stats" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 400px; " />
 
 <!-- 총 사용한 언어들 통계 --> 
-[//]: # (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" style=" box-shadow: 0 2px 6px rgba&#40;0, 0, 0, 0.1&#41;; border-radius: 8px;  width: 300px;" /> )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;  width: 300px;" /> 
+</a>
 
 
 <!-- Streak Stats -->
