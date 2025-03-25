@@ -133,8 +133,8 @@ overflow: hidden;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white" alt="AWS" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white" alt="C#" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
+
+[//]: # (<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" style="box-shadow: 0 2px 6px rgba&#40;0,0,0,0.1&#41;; border-radius: 4px;" />)
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
 </div>
 </div>
@@ -148,7 +148,8 @@ overflow: hidden;
 📚 Studying
 </h3>
 <div style="text-align: center;">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
+
+[//]: # (<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C" style="box-shadow: 0 2px 6px rgba&#40;0,0,0,0.1&#41;; border-radius: 4px;" />)
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white" alt="C#" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
 <img src="https://img.shields.io/badge/Algorithm-blue?style=for-the-badge&logo=Csharp&logoColor=white" alt="Algorithm Badge" style="box-shadow: 0 2px 6px rgba(0,0,0,0.1); border-radius: 4px;" />
