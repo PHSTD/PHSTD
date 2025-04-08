@@ -68,7 +68,7 @@ overflow: hidden;
 
 <!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=PHSTD&theme=vue&locale=ko&card_width=320&card_height=200" alt="GitHub Streak"  />
+<img src="https://streak-stats.demolab.com?user=PHSTD&theme=vue&locale=ko&card_width=320&card_height=150" alt="GitHub Streak"  />
 </a>
 
 
