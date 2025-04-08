@@ -66,15 +66,26 @@ overflow: hidden;
 <!-- 본인의 깃허브에 대한 평판을 나타내는 위젯 -->
 <img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=graywhite" alt="GitHub stats" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 485px; " />
 
-<!-- 사용한 언어 비율 --> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/> 
-</a>
+
 
 <!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=PHSTD&theme=vue&locale=ko&card_width=400&card_height=200" alt="GitHub Streak"  />
 </a>
+
+
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHSTD&theme=default)
+![Commit Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PHSTD&theme=default)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHSTD&theme=default)
+![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHSTD&theme=default&utcOffset=8)
+<!-- 사용한 언어 비율 --> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/> 
+</a>
+
+
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=4&row=2" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 49%;" />
