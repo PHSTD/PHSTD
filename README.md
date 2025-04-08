@@ -73,16 +73,23 @@ overflow: hidden;
 
 
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default)
+[//]: # (![Profile Details]&#40;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default&#41;)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHSTD&theme=default)
+[//]: # (![Top Langs]&#40;https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHSTD&theme=default&#41;)
 
-![Commit Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PHSTD&theme=default)
+[//]: # (![Commit Langs]&#40;https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PHSTD&theme=default&#41;)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHSTD&theme=default)
+[//]: # (![Stats]&#40;https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHSTD&theme=default&#41;)
 
-![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHSTD&theme=default&utcOffset=8)
+[//]: # (![Commit Time]&#40;https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHSTD&theme=default&utcOffset=8&#41;)
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHSTD&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PHSTD&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHSTD&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHSTD&theme=default&utcOffset=8" />
+</p>
 
 <!-- 사용한 언어 비율 --> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
