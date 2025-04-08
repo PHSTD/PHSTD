@@ -64,7 +64,7 @@ overflow: hidden;
 <img src="https://github.com/PHSTD/PHSTD/blob/output/github-snake-cus3.svg" />
 
 <!-- 본인의 깃허브에 대한 평판을 나타내는 위젯 -->
-<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=graywhite" alt="GitHub stats" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; height: 200px; width: 370px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=graywhite" alt="GitHub stats" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 370px;" />
 
 <!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
