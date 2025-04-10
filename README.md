@@ -95,13 +95,14 @@ overflow: hidden;
 
 [//]: # (<a href="https://github.com/anuraghazra/github-readme-stats">)
 
-[//]: # (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/>)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 50%; height: 200px"/>
+
+[//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 50%; height: 200px"/>)
+<figure><embed src="https://wakatime.com/share/@PHSTD/36a7d61d-1cb2-4ba2-835b-56573c9427a5.svg"></embed></figure>
+
 [//]: # (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&hide_progress=true" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/>)
 [//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/>)
 [//]: # (</a>)
-
-[//]: # (<figure><embed src="https://wakatime.com/share/@PHSTD/10aeaa31-9055-4a0f-b334-7a40c89c8260.svg"></embed></figure>)
-<figure><embed src="https://wakatime.com/share/@PHSTD/2736c80c-7f43-48d1-8e09-56ba9e5caa53.svg"></embed></figure>
 
 <!-- GitHub Trophies -->
 [//]: # (<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=4&row=2" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba&#40;0, 0, 0, 0.1&#41;; border-radius: 8px; width: 49%;" />)
@@ -226,7 +227,7 @@ overflow: hidden;
 </div>
 
 [//]: # (방문자 수)
-![Visitors](https://count.getloli.com/get/@PHSTD?theme=rule34&darkmode=auto)
+<img src="https://count.getloli.com/get/@PHSTD?theme=rule34" alt="PHSTD" />
 
 <!-- 구분선 -->
 <hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
