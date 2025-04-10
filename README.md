@@ -100,10 +100,12 @@ overflow: hidden;
 [//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/>)
 [//]: # (</a>)
 
-<figure><embed src="https://wakatime.com/share/@PHSTD/10aeaa31-9055-4a0f-b334-7a40c89c8260.svg"></embed></figure>
+[//]: # (<figure><embed src="https://wakatime.com/share/@PHSTD/10aeaa31-9055-4a0f-b334-7a40c89c8260.svg"></embed></figure>)
+<figure><embed src="https://wakatime.com/share/@PHSTD/2736c80c-7f43-48d1-8e09-56ba9e5caa53.svg"></embed></figure>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=4&row=2" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 49%;" />
+[//]: # (<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=4&row=2" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba&#40;0, 0, 0, 0.1&#41;; border-radius: 8px; width: 49%;" />)
+<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 100%;" />
 
 </div>
 <!-- 구분선 -->
