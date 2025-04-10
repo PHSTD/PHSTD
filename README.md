@@ -97,6 +97,12 @@ overflow: hidden;
 
 [//]: # (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 50%; height: 200px"/>)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&layout=compact" alt="Top Langs" class="border-radius: 8px; width: 50%; height: 200px"/>
+<figure><embed src="https://wakatime.com/share/@PHSTD/20afddc2-e5c2-46a4-a423-68c9f2c579ae.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@PHSTD/14edd5e7-ca73-4bf5-9007-cf49273d9a2c.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@PHSTD/6894ed8f-4cfc-42b4-93f2-10c580f8cf14.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@PHSTD/b51a34d7-48ce-412b-8fb3-345a52437fc3.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@PHSTD/088cd73c-0b7a-4852-9514-e8ae72cbf8d9.svg"></embed></figure>
+
 
 [//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 50%; height: 200px"/>)
 
