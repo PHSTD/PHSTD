@@ -227,7 +227,7 @@ overflow: hidden;
 </div>
 
 [//]: # (방문자 수)
-<img src="https://count.getloli.com/get/@PHSTD?theme=rule34" alt="PHSTD" />
+<img src="https://count.getloli.com/get/@PHSTD?theme=rule34" alt="PHSTD" style="width: 55%"/>
 
 <!-- 구분선 -->
 <hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
