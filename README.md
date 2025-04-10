@@ -105,7 +105,8 @@ overflow: hidden;
 
 <!-- GitHub Trophies -->
 [//]: # (<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=4&row=2" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba&#40;0, 0, 0, 0.1&#41;; border-radius: 8px; width: 49%;" />)
-<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 100%;" />
+<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=6&row=2" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 100%;" />
+
 
 </div>
 <!-- 구분선 -->
@@ -224,13 +225,15 @@ overflow: hidden;
 
 </div>
 
-<a href=""></a>
+[//]: # (방문자 수)
+![Visitors](https://count.getloli.com/get/@PHSTD?theme=rule34&darkmode=auto)
 
 <!-- 구분선 -->
 <hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
 
 <!-- =========================== 푸터 =========================== -->
 <div style="text-align: center; padding: 1rem; background-color: #f5f5f5;">
+
 
 
 <strong>감사합니다! 😄</strong>
