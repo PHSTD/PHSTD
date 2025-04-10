@@ -92,11 +92,11 @@ overflow: hidden;
 </p>
 
 <!-- 사용한 언어 비율 --> 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/> 
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/>-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/> 
 </a>
-
-
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=4&row=2" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 49%;" />
