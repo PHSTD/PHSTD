@@ -104,7 +104,7 @@ overflow: hidden;
 <figure><embed src="https://wakatime.com/share/@PHSTD/088cd73c-0b7a-4852-9514-e8ae72cbf8d9.svg"></embed></figure>
 
 
-[//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 50%; height: 200px"/>)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 50%; height: 200px"/>
 
 [//]: # (<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&hide_progress=true" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/>)
 [//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/>)
