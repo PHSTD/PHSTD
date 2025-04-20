@@ -103,10 +103,17 @@ overflow: hidden;
 [//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" alt="Top Langs" class="border-radius: 8px; width: 400px; height: 200px"/>)
 [//]: # (</a>)
 
+<figure>
+<img src="https://wakatime.com/share/@PHSTD/e41365ce-3209-44d4-83bb-a6e9c24d7701.svg" style="width: 49%;" />
+<img src="https://wakatime.com/share/@PHSTD/9c266b69-ef13-418a-957d-2e9ed94ac77c.svg" style="width: 49%;" />
+<img src="https://wakatime.com/share/@PHSTD/82b67602-3119-4f54-b74e-bdc3ac7236f8.svg" style="width: 49%;" />
+<img src="https://wakatime.com/share/@PHSTD/cc882fd7-bacb-4456-a584-4f1324f913d9.svg" style="width: 49%;" />
+</figure>
+
+
 <!-- GitHub Trophies -->
 [//]: # (<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat&column=4&row=2" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba&#40;0, 0, 0, 0.1&#41;; border-radius: 8px; width: 49%;" />)
 <img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 100%;" />
-
 
 </div>
 <!-- 구분선 -->
