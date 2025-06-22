@@ -40,12 +40,21 @@
 </p>
 
 <!-- =========================== 움직이는 글 =========================== -->
-<div style="text-align: center;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
-    </a>
-<!-- 방문자 수 -->
-    <img src="https://komarev.com/ghpvc/?username=PHSTD&style=flat-square" alt="Visitors" style=" margin: 0.5rem; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 6px; " />
+<div align="center" dir="auto" style="width: 100%;">
+<!-- 움직이는 글 -->
+    <div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: wrap;">
+        <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+            <a href="https://git.io/typing-svg" rel="nofollow">
+                <img src="https://camo.githubusercontent.com/35f97ef2468917a1c43f0006da9c6f44793b51fbc7e956520945d3444469aa97/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d4637354337452677696474683d343335266c696e65733d50485354443b53595354454d2b444556454c4f5045523b46554c4c2b535441434b2b444556454c4f504552" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;color=F75C7E&amp;width=435&amp;lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" style="max-width: 100%;">
+            </a>
+        </div>
+<!-- 프로파일 뷰 -->
+        <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcda29c3cf78737c004d71b9476b4ee607804c4c7147cb0b4abad409bea23f7b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5048535444267374796c653d666c61742d737175617265">
+                <img src="https://camo.githubusercontent.com/fcda29c3cf78737c004d71b9476b4ee607804c4c7147cb0b4abad409bea23f7b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5048535444267374796c653d666c61742d737175617265" alt="Visitors" data-canonical-src="https://komarev.com/ghpvc/?username=PHSTD&amp;style=flat-square" style="max-width: 100%;">
+            </a>
+        </div>
+    </div>
 </div>
 
 
