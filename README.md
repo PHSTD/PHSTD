@@ -1,8 +1,13 @@
 <!-- =========================== 상단 헤더 이미지 =========================== -->
-<div align="center">
-  <a href="https://github.com/PHSTD">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=PHSTD%20STORY&fontSize=50&fontAlign=50&fontAlignY=35&desc=System%20Developer%20%7C%20Full%20Stack%20Engineer&descAlign=50&descAlignY=55&fontColor=ffffff&animation=fadeIn" alt="PHSTD Header" />
-  </a>
+<div align="center" dir="auto" style="width: 100%;">
+<!-- 움직이는 글 -->
+	<div style="display: flex; justify-content: space-around; align-items: center; width: 100%; flex-wrap: wrap; min-height: 60px;">
+		<div style="flex: 1; display: flex; justify-content: center; align-items: center; text-align: center;">
+			<a href="https://git.io/typing-svg" rel="nofollow">
+				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=random&center=true&vCenter=true&multiline=true&width=800&height=120&lines=PHSTD+STORY;System+Developer+%7C+Full+Stack+Engineer" alt="PHSTD Header" />
+			</a>
+		</div>
+	</div>
 </div>
 <!-- =========================== 소개 영역 =========================== -->
 <h2 style="margin: 0 0 0.5rem 0;">
@@ -13,53 +18,37 @@
 방문해주셔서 감사합니다! 열심히 성장 중입니다.
 </p>
 
-<!-- =========================== 움직이는 글 =========================== -->
+<!-- 프로파일 뷰 
 <div align="center" dir="auto" style="width: 100%;">
-<!-- 움직이는 글 -->
-    <div style="display: flex; justify-content: space-around; align-items: center; width: 100%; flex-wrap: wrap; min-height: 60px;">
-        <div style="flex: 1; display: flex; justify-content: center; align-items: center; text-align: center;">
-            <a href="https://git.io/typing-svg" rel="nofollow">
-                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=random&center=true&vCenter=true&multiline=true&width=800&height=120&lines=PHSTD+STORY;System+Developer+%7C+Full+Stack+Engineer" alt="PHSTD Header" />
-            </a>
-        </div>
-<!-- 프로파일 뷰 -->
         <div style="flex: 1; display: flex; justify-content: center; align-items: center; text-align: center;">
             <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fcda29c3cf78737c004d71b9476b4ee607804c4c7147cb0b4abad409bea23f7b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5048535444267374796c653d666c61742d737175617265">
                 <img src="https://camo.githubusercontent.com/fcda29c3cf78737c004d71b9476b4ee607804c4c7147cb0b4abad409bea23f7b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5048535444267374796c653d666c61742d737175617265" alt="Visitors" data-canonical-src="https://komarev.com/ghpvc/?username=PHSTD&amp;style=flat-square" style="max-width: 100%; display: block; margin: 0 auto;">
             </a>
         </div>
     </div>
-</div>
+-->
 
-<!-- =========================== Stats & Trophies =========================== -->
 <div style="padding: 2rem; text-align: center">
 	<h3 style="text-align: center; margin-bottom: 2rem; font-size: 1.5rem;"> 📊 baekjoon Stats </h3>
-	
 	<!-- solved.ac 백준 등급 -->
 	<a href="https://www.acmicpc.net/" target="_blank" rel="noopener noreferrer">
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=odzqceal11" alt="solved.ac 프로필" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; max-width: 250px; " />
 	</a>
-	
 	<!-- 백준 잔디 -->
 	<a href="https://www.acmicpc.net/" target="_blank" rel="noopener noreferrer">
 	<img src="http://mazandi.herokuapp.com/api?handle=odzqceal11&theme=warm" alt="백준 잔디" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; max-width: 250px; " />
 	</a>
 </div>
 
-<!-- =========================== GitHub Activity Graph (깃 잔디) =========================== -->
 
 <div style="padding: 2rem; text-align: center">
 	<h3 style="margin-bottom: 1.5rem; font-size: 1.5rem;">🌱 GitHub Activity Graph & Stats & Trophies</h3>
-	
 	<!-- 3D GitHub Stats -->
 	<img src="./profile-3d-contrib/profile-gitblock.svg">
-	
 	<!-- 잔디 지렁이 -->
 	<img src="https://github.com/PHSTD/PHSTD/blob/output/github-snake-cus3.svg" />
-	
 	<!-- 본인의 깃허브에 대한 평판을 나타내는 위젯 -->
 	<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=graywhite" alt="GitHub stats" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 370px;" />
-	
 	<!-- Streak Stats -->
 	<a href="https://git.io/streak-stats">
 	<img src="https://streak-stats.demolab.com?user=PHSTD&theme=vue&locale=ko&card_width=320&card_height=150" alt="GitHub Streak"  />
@@ -80,22 +69,17 @@
 
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&layout=compact" alt="Top Langs" style="border-radius: 8px; height: 130px;"/>
 	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PHSTD" style="border-radius: 8px; height: 130px;" />
-	
-	
 	<figure>
 	<img src="https://wakatime.com/share/@PHSTD/e41365ce-3209-44d4-83bb-a6e9c24d7701.svg" style="width: 49%;" />
 	<img src="https://wakatime.com/share/@PHSTD/9c266b69-ef13-418a-957d-2e9ed94ac77c.svg" style="width: 49%;" />
 	<img src="https://wakatime.com/share/@PHSTD/82b67602-3119-4f54-b74e-bdc3ac7236f8.svg" style="width: 49%;" />
 	<img src="https://wakatime.com/share/@PHSTD/cc882fd7-bacb-4456-a584-4f1324f913d9.svg" style="width: 49%;" />
 	</figure>
-	
-	
 	<!-- GitHub Trophies -->
 	<img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat" alt="GitHub Trophies" style=" box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 100%;" />
 
 </div>
 
-<!-- =========================== Git-동물 키우기 =========================== -->
 <div style="padding: 2rem; text-align: center;">
 	<h3 style="margin-bottom: 1.5rem; font-size: 1.5rem;">🐾 Git 동물 키우기</h3>
 	<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PHSTD&utm_content=farm">
@@ -108,7 +92,6 @@
 </div>
 
 
-<!-- =========================== 소셜 링크 =========================== -->
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2.5rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
   <h3 style="color: white; font-size: 2rem; margin-bottom: 2rem; text-shadow: 0 2px 10px rgba(0,0,0,0.3); font-weight: 600;">
     🌐 Connect With Me
@@ -121,7 +104,6 @@
            onmouseover="this.style.transform='perspective(1000px) rotateX(-10deg) translateY(-8px)'; this.style.boxShadow='0 15px 35px rgba(0,0,0,0.2)'" 
            onmouseout="this.style.transform='perspective(1000px) rotateX(0deg) translateY(0px)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
     </a>
-    
     <a href="https://github.com/PHSTD" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" 
            style="transform: perspective(1000px) rotateX(0deg); transition: all 0.3s ease; border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);" 
@@ -132,7 +114,6 @@
 </div>
 
 
-<!-- =========================== Tech Stack =========================== -->
 
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
   <h3 style="color: white; font-size: 2.5rem; margin-bottom: 3rem; text-shadow: 0 2px 10px rgba(0,0,0,0.3); font-weight: 600;">
@@ -228,7 +209,6 @@
 </div>
 
 
-<!-- =========================== Studying =========================== -->
 <div align="center" style="margin: 3rem 0; padding: 2rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
   <h3 style="color: white; font-size: 2rem; margin-bottom: 2rem; text-shadow: 0 2px 10px rgba(0,0,0,0.3); font-weight: 600;">
     📚 Currently Studying & Mastering
@@ -267,7 +247,6 @@
   </div>
 </div>
 
-<!-- =========================== Tools =========================== -->
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
   <h3 style="color: white; font-size: 2.5rem; margin-bottom: 3rem; text-shadow: 0 2px 10px rgba(0,0,0,0.3); font-weight: 600;">
     🛠 Development Tools
