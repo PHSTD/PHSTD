@@ -1,6 +1,6 @@
 
 <!-- 전체 영역(배경 & 레이아웃) -->
-<div style=" background: linear-gradient(to bottom, #f8f8f8, #ffffff); padding: 2rem; font-family: sans-serif; color: #333; text-align: center;">
+<div style=" background: linear-gradient(to bottom, #f8f8f8, #ffffff); padding: 2rem; font-family: sans-serif; color: #333; text-align: center; margin: 0 auto;">
 
 <!-- 메인 컨테이너(가운데 정렬, 최대 너비 제한) -->
 
