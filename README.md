@@ -542,7 +542,7 @@
      alt="Wakatime Stats"
      style="border-radius: 8px; 
             height: 130px;" />
-
+<br>
 <figure>
     <img src="https://wakatime.com/share/@PHSTD/e41365ce-3209-44d4-83bb-a6e9c24d7701.svg" 
          alt="Wakatime Chart 1"
