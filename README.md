@@ -223,15 +223,8 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white" 
-             alt="AWS" 
-             style="transition: all 0.3s ease; 
-                    border-radius: 10px; 
-                    box-shadow: 0 8px 25px rgba(0,0,0,0.15);" 
-             onmouseover="this.style.transform='translateY(-5px)'; 
-                          this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
-             onmouseout="this.style.transform='translateY(0)'; 
-                         this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white" alt="AWS" style="transition: all 0.3s ease; border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
     </div>
 </div>
 </div>
