@@ -576,7 +576,7 @@
 </div>
 
 <!-- =========================== Git 동물 키우기 =========================== --> 
-<div style="padding: 2rem; text-align: center;">
+<div align="center" style="padding: 2rem; text-align: center;">
 <h3 style="margin-bottom: 1.5rem; 
            font-size: 1.5rem;">
     🐾 Git 동물 키우기
