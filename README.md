@@ -1,6 +1,11 @@
-# PHSTD's GitHub Profile ✨
 
-<!-- =========================== 헤더 섹션 =========================== --> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=random&center=true&vCenter=true&multiline=true&width=900&height=140&lines=PHSTD+STORY;System+Developer+%7C+Full+Stack+Engineer" alt="PHSTD Header" /> </a> </div>
+<!-- =========================== 헤더 섹션 =========================== -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=random&center=true&vCenter=true&multiline=true&width=900&height=180&lines=PHSTD+STORY;System+Developer+%7C+Full+Stack+Engineer;열심히+성장+중입니다" 
+             alt="PHSTD Header" />
+    </a>
+</div>
 
 ---
 
@@ -12,7 +17,7 @@
 
 <!-- =========================== 소셜 링크 =========================== --> <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2.5rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
 
-```
+```html
 <h3 style="color: white; 
            font-size: 2rem; 
            margin-bottom: 2rem; 
@@ -57,7 +62,6 @@
              onmouseout="this.style.transform='perspective(1000px) rotateX(0deg) translateY(0px)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
     </a>
-    
 </div>
 ```
 
@@ -67,7 +71,7 @@
 
 <!-- =========================== Tech Stack =========================== --> <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
 
-```
+```html
 <h3 style="color: white; 
            font-size: 2.5rem; 
            margin-bottom: 3rem; 
@@ -283,7 +287,7 @@
 
 <!-- =========================== 현재 학습 중 =========================== --> <div align="center" style="margin: 3rem 0; padding: 2rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
 
-```
+```html
 <h3 style="color: white; 
            font-size: 2rem; 
            margin-bottom: 2rem; 
@@ -361,7 +365,7 @@
 
 <!-- =========================== 개발 도구 =========================== --> <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
 
-```
+```html
 <h3 style="color: white; 
            font-size: 2.5rem; 
            margin-bottom: 3rem; 
@@ -537,7 +541,7 @@
 
 <!-- =========================== 백준 통계 =========================== --> <div style="padding: 2rem; text-align: center;">
 
-```
+```html
 <h3 style="text-align: center; 
            margin-bottom: 2rem; 
            font-size: 1.5rem;"> 
@@ -573,7 +577,7 @@
 
 <!-- =========================== GitHub 활동 =========================== --> <div style="padding: 2rem; text-align: center;">
 
-```
+```html
 <h3 style="margin-bottom: 1.5rem; 
            font-size: 1.5rem;">
     🌱 GitHub Activity Graph & Stats & Trophies
@@ -605,9 +609,12 @@
 
 ---
 
-<!-- =========================== GitHub 프로필 요약 카드 =========================== --> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" alt="Profile Details" />
+<!-- =========================== GitHub 프로필 요약 카드 =========================== --> <p align="center">
 
-```
+```html
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" 
+     alt="Profile Details" />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHSTD&theme=default" 
      alt="Repos per Language" />
 
@@ -627,7 +634,7 @@
 
 <!-- =========================== 언어 사용률 & 시간 추적 =========================== --> <div align="center">
 
-```
+```html
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&layout=compact" 
      alt="Top Languages" 
      style="border-radius: 8px; 
@@ -670,7 +677,7 @@
 
 <!-- =========================== Git 동물 키우기 =========================== --> <div style="padding: 2rem; text-align: center;">
 
-```
+```html
 <h3 style="margin-bottom: 1.5rem; 
            font-size: 1.5rem;">
     🐾 Git 동물 키우기
@@ -690,7 +697,7 @@
 
 <!-- =========================== 방문자 수 =========================== --> <div align="center" style="margin: 0 auto;">
 
-```
+```html
 <img src="https://count.getloli.com/get/@PHSTD?theme=rule34" 
      alt="Visitor Count" 
      style="width: 55%" />
@@ -702,7 +709,7 @@
 
 <!-- =========================== 마무리 =========================== --> <div style="text-align: center; padding: 1rem; background-color: #f5f5f5;">
 
-```
+```html
 <strong>감사합니다! 😄</strong>
 ```
 
