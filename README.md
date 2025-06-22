@@ -586,8 +586,8 @@
 
 </div>
 
-<!-- =========================== Git 동물 키우기 =========================== --> 
 <div style="padding: 2rem; text-align: center;">
+<!-- =========================== Git 동물 키우기 =========================== --> 
 <h3 style="margin-bottom: 1.5rem; 
            font-size: 1.5rem;">
     🐾 Git 동물 키우기
@@ -596,15 +596,10 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PHSTD&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/PHSTD"
          alt="Git Animals Farm"
-         width="600"
+         width="400"
          height="300" />
 </a>
+<img src="https://count.getloli.com/get/@PHSTD?theme=rule34" alt="Visitor Count" width="400" height="300" />
 </div>
 <!-- =========================== 방문자 수 =========================== -->
-<div style="margin: 0 auto;">
-<img src="https://count.getloli.com/get/@PHSTD?theme=rule34" 
-     alt="Visitor Count" 
-     style="width: 55%" />
-
-</div>
 </div>
