@@ -544,12 +544,12 @@
      alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHSTD&theme=default" 
      alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHSTD&theme=default&utcOffset=8" 
-     alt="Productive Time" />
 </div>
 <!--
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" 
      alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHSTD&theme=default&utcOffset=8" 
+     alt="Productive Time" />
 -->
 
 <!-- =========================== 언어 사용률 & 시간 추적 =========================== --> 
