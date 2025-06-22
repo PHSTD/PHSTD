@@ -588,10 +588,12 @@
 
 <div style="padding: 2rem; text-align: center;">
 <!-- =========================== Git 동물 키우기 =========================== --> 
+<!-- 
 <h3 style="margin-bottom: 1.5rem; 
            font-size: 1.5rem;">
     🐾 Git 동물 키우기
 </h3>
+-->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=PHSTD&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/PHSTD"
