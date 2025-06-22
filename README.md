@@ -1,6 +1,6 @@
 
 <!-- 전체 영역(배경 & 레이아웃) -->
-<div align="center" style=" background: linear-gradient(to bottom, #f8f8f8, #ffffff); padding: 2rem; font-family: sans-serif; color: #333; ">
+<div style=" background: linear-gradient(to bottom, #f8f8f8, #ffffff); padding: 2rem; font-family: sans-serif; color: #333; text-align: center;">
 
 <!-- 메인 컨테이너(가운데 정렬, 최대 너비 제한) -->
 
@@ -30,7 +30,6 @@
 
 
 <!-- =========================== 소개 영역 =========================== -->
-<div style="padding: 2rem; text-align: center;">
 
 
 <h2 style="margin: 0 0 0.5rem 0;">
@@ -42,21 +41,12 @@
 </p>
 
 <!-- 구분선 -->
-<hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
-<br>
-<br>
 
 <!-- =========================== 움직이는 글 =========================== -->
-<div style="float: left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
-    <!-- 방문자 수 -->
-    <img src="https://komarev.com/ghpvc/?username=PHSTD&style=flat-square" alt="Visitors" style=" margin: 0.5rem; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 6px; " />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
+<!-- 방문자 수 -->
+<img src="https://komarev.com/ghpvc/?username=PHSTD&style=flat-square" alt="Visitors" style=" margin: 0.5rem; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 6px; " />
 
-</div>
-
-<!-- 구분선 -->
-<hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
 
 <!-- =========================== Stats & Trophies =========================== -->
 <div style="padding: 2rem; text-align: center">
