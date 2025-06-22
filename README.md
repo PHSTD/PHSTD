@@ -48,8 +48,7 @@
 <!-- =========================== Tech Stack =========================== -->
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
 <h3 style="color: white; 
-           font-size: 2.5rem; 
-           margin-bottom: 3rem; 
+           font-size: 2.5rem; margin-bottom: 3rem; 
            text-shadow: 0 2px 10px rgba(0,0,0,0.3); 
            font-weight: 600;">
     ✨ Tech Stack
@@ -224,7 +223,7 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white" 
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white" 
              alt="AWS" 
              style="transition: all 0.3s ease; 
                     border-radius: 10px; 
