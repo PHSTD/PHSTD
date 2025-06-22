@@ -39,12 +39,14 @@
 방문해주셔서 감사합니다! 열심히 성장 중입니다.
 </p>
 
-<!-- 구분선 -->
-
 <!-- =========================== 움직이는 글 =========================== -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
+<div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
+    </a>
 <!-- 방문자 수 -->
-<img src="https://komarev.com/ghpvc/?username=PHSTD&style=flat-square" alt="Visitors" style=" margin: 0.5rem; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 6px; " />
+    <img src="https://komarev.com/ghpvc/?username=PHSTD&style=flat-square" alt="Visitors" style=" margin: 0.5rem; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 6px; " />
+</div>
 
 
 <!-- =========================== Stats & Trophies =========================== -->
