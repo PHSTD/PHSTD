@@ -516,17 +516,12 @@
 <!-- 잔디 지렁이 -->
 <img src="https://github.com/PHSTD/PHSTD/blob/output/github-snake-cus3.svg" 
      alt="GitHub Snake" />
-<!-- GitHub Stats -->
+<!-- 그래프 -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PHSTD&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" 
      alt="GitHub stats" 
      style="box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); 
             border-radius: 8px; 
             width: 100%;" />
-<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=graywhite" 
-     alt="GitHub stats" 
-     style="box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); 
-            border-radius: 8px; 
-            width: 370px;" />
 <!-- Streak Stats -->
 <!--
 <a href="https://git.io/streak-stats">
@@ -544,6 +539,9 @@
      alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHSTD&theme=default" 
      alt="Stats" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=graywhite" 
+     alt="GitHub stats" />
 </div>
 <!--
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" 
