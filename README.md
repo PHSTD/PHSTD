@@ -1,12 +1,12 @@
-
+<div align="center">
 <!-- =========================== 헤더 섹션 =========================== -->
-<div align="center" style="margin: 10px auto;">
+<div style="margin: 10px auto;">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=PHSTD+STORY;System+Developer+%7C+Full+Stack+Engineer;%EC%97%B4%EC%8B%AC%ED%9E%88+%EC%84%B1%EC%9E%A5+%EC%A4%91+%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 </div>
 
 <!-- =========================== 소셜 링크 =========================== -->
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2.5rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2.5rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
 <h3 style="color: white; 
            font-size: 2rem; 
            margin-bottom: 2rem; 
@@ -54,7 +54,7 @@
 
 
 <!-- =========================== Tech Stack =========================== -->
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
 <h3 style="color: white; 
            font-size: 2.5rem; 
            margin-bottom: 3rem; 
@@ -247,7 +247,7 @@
 
 
 <!-- =========================== 현재 학습 중 =========================== -->
-<div align="center" style="margin: 3rem 0; padding: 2rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+<div style="margin: 3rem 0; padding: 2rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 25px; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
 <h3 style="color: white; 
            font-size: 2rem; 
            margin-bottom: 2rem; 
@@ -314,7 +314,7 @@
 </div>
 
 <!-- =========================== 개발 도구 =========================== -->
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
 <h3 style="color: white; 
            font-size: 2.5rem; 
            margin-bottom: 3rem; 
@@ -527,7 +527,7 @@
 </div>
 
 <!-- =========================== GitHub 프로필 요약 카드 =========================== --> 
-<p align="center">
+<p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" 
      alt="Profile Details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHSTD&theme=default" 
@@ -542,7 +542,7 @@
 
 
 <!-- =========================== 언어 사용률 & 시간 추적 =========================== --> 
-<div align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&layout=compact" 
      alt="Top Languages" 
      style="border-radius: 8px; 
@@ -576,7 +576,7 @@
 </div>
 
 <!-- =========================== Git 동물 키우기 =========================== --> 
-<div align="center" style="padding: 2rem; text-align: center;">
+<div style="padding: 2rem; text-align: center;">
 <h3 style="margin-bottom: 1.5rem; 
            font-size: 1.5rem;">
     🐾 Git 동물 키우기
@@ -590,7 +590,7 @@
 </a>
 </div>
 <!-- =========================== 방문자 수 =========================== -->
-<div align="center" style="margin: 0 auto;">
+<div style="margin: 0 auto;">
 <img src="https://count.getloli.com/get/@PHSTD?theme=rule34" 
      alt="Visitor Count" 
      style="width: 55%" />
@@ -600,4 +600,5 @@
 <!-- =========================== 마무리 =========================== --> 
 <div style="text-align: center; padding: 1rem; background-color: #f5f5f5;">
 <strong>감사합니다! 😄</strong>
+</div>
 </div>
