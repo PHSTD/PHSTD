@@ -514,18 +514,14 @@
      alt="3D GitHub Stats" />
 -->
 <!-- 잔디 지렁이 -->
-<!--
 <img src="https://github.com/PHSTD/PHSTD/blob/output/github-snake-cus3.svg" 
      alt="GitHub Snake" />
--->
 <!-- GitHub Stats -->
-<!--
 <img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=graywhite" 
      alt="GitHub stats" 
      style="box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); 
             border-radius: 8px; 
             width: 370px;" />
--->
 <!-- Streak Stats -->
 <!--
 <a href="https://git.io/streak-stats">
@@ -541,14 +537,14 @@
      alt="Most Commit Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHSTD&theme=default" 
      alt="Repos per Language" />
-</div>
-<!--
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" 
-     alt="Profile Details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHSTD&theme=default" 
      alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHSTD&theme=default&utcOffset=8" 
      alt="Productive Time" />
+</div>
+<!--
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" 
+     alt="Profile Details" />
 -->
 
 <!-- =========================== 언어 사용률 & 시간 추적 =========================== --> 
@@ -611,6 +607,6 @@
 
 <!-- =========================== 마무리 =========================== --> 
 <div style="text-align: center; padding: 1rem; background-color: #f5f5f5;">
-<strong>감사합니다! 😄</strong>
+<strong>감사합니다!</strong>
 </div>
 </div>
