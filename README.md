@@ -607,9 +607,4 @@
      style="width: 55%" />
 
 </div>
-
-<!-- =========================== 마무리 =========================== --> 
-<div style="text-align: center; padding: 1rem; background-color: #f5f5f5;">
-<strong>감사합니다!</strong>
-</div>
 </div>
