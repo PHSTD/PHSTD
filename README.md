@@ -28,18 +28,10 @@
 [//]: # (<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=PHSTD+STORY&fontAlign=70&fontColor=666666" alt="PHSTD STORY Header" style="max-width: 100%;" /> )
 [//]: # (</a>)
 
-<!-- =========================== 움직이는 글 =========================== -->
-<div style="text-align: center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
-  </a>
-</div>
 
 <!-- =========================== 소개 영역 =========================== -->
 <div style="padding: 2rem; text-align: center;">
 
-<!-- 방문자 수 -->
-<img src="https://komarev.com/ghpvc/?username=PHSTD&style=flat-square" alt="Visitors" style=" margin: 0.5rem; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 6px; " />
 
 <h2 style="margin: 0 0 0.5rem 0;">
 안녕하세요! <span style="font-size: 1.2rem;">😄</span>
@@ -48,6 +40,19 @@
 <p style="margin: 0 0 1rem 0;">
 방문해주셔서 감사합니다! 열심히 성장 중입니다.
 </p>
+
+<!-- 구분선 -->
+<hr style="border: none; border-top: 1px solid #eee; margin: 0;" />
+<br>
+<br>
+
+<!-- =========================== 움직이는 글 =========================== -->
+<a href="https://git.io/typing-svg" style="text-align: center;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
+</a>
+
+<!-- 방문자 수 -->
+<img src="https://komarev.com/ghpvc/?username=PHSTD&style=flat-square" alt="Visitors" style=" margin: 0.5rem; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 6px; " />
 
 </div>
 
