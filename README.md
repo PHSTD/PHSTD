@@ -47,9 +47,7 @@
 <br>
 
 <!-- =========================== 움직이는 글 =========================== -->
-<a href="https://git.io/typing-svg" style="text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
 
 <!-- 방문자 수 -->
 <img src="https://komarev.com/ghpvc/?username=PHSTD&style=flat-square" alt="Visitors" style=" margin: 0.5rem; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); border-radius: 6px; " />
