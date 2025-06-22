@@ -14,21 +14,13 @@
            font-weight: 600;">
     🌐 Connect With Me
 </h3>
-<div style="display: flex; 
-            flex-wrap: wrap; 
-            justify-content: center; 
-            gap: 20px; 
-            max-width: 600px; 
-            margin: 0 auto;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 600px; margin: 0 auto;">
     <a href="https://velog.io/@sic2kdif9/posts" 
        target="_blank" 
        style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/📝_Velog-20C997?style=for-the-badge&logo=v&logoColor=white" 
+        <img src="https://img.shields.io/badge/_Velog-20C997?style=for-the-badge&logo=v&logoColor=white" 
              alt="Velog" 
-             style="transform: perspective(1000px) rotateX(0deg); 
-                    transition: all 0.3s ease; 
-                    border-radius: 12px; 
-                    box-shadow: 0 8px 25px rgba(0,0,0,0.15);" 
+             style="transform: perspective(1000px) rotateX(0deg); transition: all 0.3s ease; border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);" 
              onmouseover="this.style.transform='perspective(1000px) rotateX(-10deg) translateY(-8px)'; 
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.2)'" 
              onmouseout="this.style.transform='perspective(1000px) rotateX(0deg) translateY(0px)'; 
@@ -37,7 +29,7 @@
     <a href="https://github.com/PHSTD" 
        target="_blank" 
        style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+        <img src="https://img.shields.io/badge/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
              alt="GitHub" 
              style="transform: perspective(1000px) rotateX(0deg); 
                     transition: all 0.3s ease; 
