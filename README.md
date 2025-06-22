@@ -2,7 +2,7 @@
 <!-- =========================== 헤더 섹션 =========================== -->
 <div style="margin: 10px auto;">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=PHSTD+STORY;System+Developer+%7C+Full+Stack+Engineer;%EC%97%B4%EC%8B%AC%ED%9E%88+%EC%84%B1%EC%9E%A5+%EC%A4%91+%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&center=true&vCenter=true&multiline=true&width=800&height=100&lines=PHSTD+STORY;System+Developer+%7C+Game+Developer+%7C+Full+Stack+Engineer;%EC%97%B4%EC%8B%AC%ED%9E%88+%EC%84%B1%EC%9E%A5+%EC%A4%91+%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 </div>
 
 <!-- =========================== 소셜 링크 =========================== -->
@@ -493,47 +493,58 @@
 </div>
 
 <!-- =========================== GitHub 활동 =========================== --> 
-<div style="padding: 2rem; text-align: center;">
-<h3 style="margin-bottom: 1.5rem; 
-           font-size: 1.5rem;">
-    🌱 GitHub Activity Graph & Stats & Trophies
+<div>
+<!--
+<h3 style="margin-bottom: 1.5rem; font-size: 1.5rem; padding: 2rem; text-align: center;">
+   🌱 GitHub Activity Graph & Stats & Trophies 
 </h3>
+-->
 <!-- 3D GitHub Stats -->
+<!--
 <img src="./profile-3d-contrib/profile-gitblock.svg" 
      alt="3D GitHub Stats" />
+-->
 <!-- 잔디 지렁이 -->
+<!--
 <img src="https://github.com/PHSTD/PHSTD/blob/output/github-snake-cus3.svg" 
      alt="GitHub Snake" />
+-->
 <!-- GitHub Stats -->
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=PHSTD&show_icons=true&theme=graywhite" 
      alt="GitHub stats" 
      style="box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); 
             border-radius: 8px; 
             width: 370px;" />
+-->
 <!-- Streak Stats -->
+<!--
 <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=PHSTD&theme=vue&locale=ko&card_width=320&card_height=150" 
          alt="GitHub Streak" />
 </a>
+-->
 </div>
 
 <!-- =========================== GitHub 프로필 요약 카드 =========================== --> 
-<p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" 
-     alt="Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHSTD&theme=default" 
-     alt="Repos per Language" />
+<div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PHSTD&theme=default" 
      alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PHSTD&theme=default" 
+     alt="Repos per Language" />
+</div>
+<!--
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PHSTD&theme=default" 
+     alt="Profile Details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PHSTD&theme=default" 
      alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PHSTD&theme=default&utcOffset=8" 
      alt="Productive Time" />
-</p>
-
+-->
 
 <!-- =========================== 언어 사용률 & 시간 추적 =========================== --> 
 <div>
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHSTD&layout=compact" 
      alt="Top Languages" 
      style="border-radius: 8px; 
@@ -557,6 +568,7 @@
          alt="Wakatime Chart 4"
          style="width: 49%;" />
 </figure>
+-->
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=PHSTD&theme=flat" 
      alt="GitHub Trophies" 
