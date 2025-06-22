@@ -1,23 +1,11 @@
 
 <!-- =========================== 헤더 섹션 =========================== -->
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=random&center=true&vCenter=true&multiline=true&width=900&height=180&lines=PHSTD+STORY;System+Developer+%7C+Full+Stack+Engineer;열심히+성장+중입니다" 
-             alt="PHSTD Header" />
-    </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=random&center=true&vCenter=true&multiline=true&width=900&height=180&lines=PHSTD+STORY;System+Developer+%7C+Full+Stack+Engineer;열심히+성장+중입니다"  alt="PHSTD Header" />
 </div>
-
----
-
-## 안녕하세요! 😄
-
-방문해주셔서 감사합니다! 열심히 성장 중입니다.
-
----
 
 <!-- =========================== 소셜 링크 =========================== -->
 <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2.5rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-
 <h3 style="color: white; 
            font-size: 2rem; 
            margin-bottom: 2rem; 
@@ -25,14 +13,12 @@
            font-weight: 600;">
     🌐 Connect With Me
 </h3>
-
 <div style="display: flex; 
             flex-wrap: wrap; 
             justify-content: center; 
             gap: 20px; 
             max-width: 600px; 
             margin: 0 auto;">
-    
     <a href="https://velog.io/@sic2kdif9/posts" 
        target="_blank" 
        style="text-decoration: none;">
@@ -47,7 +33,6 @@
              onmouseout="this.style.transform='perspective(1000px) rotateX(0deg) translateY(0px)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
     </a>
-    
     <a href="https://github.com/PHSTD" 
        target="_blank" 
        style="text-decoration: none;">
@@ -66,10 +51,8 @@
 
 </div>
 
----
 
 <!-- =========================== Tech Stack =========================== --> <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 3rem; border-radius: 25px; margin: 2rem 0; box-shadow: 0 15px 35px rgba(0,0,0,0.1);">
-
 <h3 style="color: white; 
            font-size: 2.5rem; 
            margin-bottom: 3rem; 
@@ -77,7 +60,6 @@
            font-weight: 600;">
     ✨ Tech Stack
 </h3>
-
 <!-- Backend & Language -->
 <div style="margin-bottom: 2.5rem;">
     <h4 style="color: #FFE066; 
@@ -86,13 +68,11 @@
                text-shadow: 0 2px 5px rgba(0,0,0,0.2);">
         🚀 Backend & Language
     </h4>
-    
     <div style="display: flex; 
                 flex-wrap: wrap; 
                 justify-content: center; 
                 gap: 12px; 
                 margin-bottom: 1rem;">
-        
         <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white" 
              alt="Java" 
              style="transition: all 0.3s ease; 
@@ -102,7 +82,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" 
              alt="Spring" 
              style="transition: all 0.3s ease; 
@@ -112,7 +91,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" 
              alt="Node.js" 
              style="transition: all 0.3s ease; 
@@ -122,7 +100,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" 
              alt="PHP" 
              style="transition: all 0.3s ease; 
@@ -132,7 +109,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" 
              alt="C" 
              style="transition: all 0.3s ease; 
@@ -153,13 +129,11 @@
                text-shadow: 0 2px 5px rgba(0,0,0,0.2);">
         🎨 Frontend & UI
     </h4>
-    
     <div style="display: flex; 
                 flex-wrap: wrap; 
                 justify-content: center; 
                 gap: 12px; 
                 margin-bottom: 1rem;">
-        
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" 
              alt="JavaScript" 
              style="transition: all 0.3s ease; 
@@ -169,7 +143,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white" 
              alt="TypeScript" 
              style="transition: all 0.3s ease; 
@@ -179,7 +152,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" 
              alt="React" 
              style="transition: all 0.3s ease; 
@@ -189,7 +161,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" 
              alt="jQuery" 
              style="transition: all 0.3s ease; 
@@ -199,7 +170,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" 
              alt="HTML5" 
              style="transition: all 0.3s ease; 
@@ -209,7 +179,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" 
              alt="CSS3" 
              style="transition: all 0.3s ease; 
@@ -219,7 +188,6 @@
                           this.style.boxShadow='0 15px 35px rgba(0,0,0,0.25)'" 
              onmouseout="this.style.transform='translateY(0)'; 
                          this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'" />
-        
         <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" 
              alt="Tailwind CSS" 
              style="transition: all 0.3s ease; 
