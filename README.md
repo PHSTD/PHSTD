@@ -3,19 +3,37 @@
 <div align="center" style=" background: linear-gradient(to bottom, #f8f8f8, #ffffff); padding: 2rem; font-family: sans-serif; color: #333; ">
 
 <!-- 메인 컨테이너(가운데 정렬, 최대 너비 제한) -->
-<a style="
-max-width: 1000px;
-margin: 0 auto;
-background-color: #ffffff;
-border-radius: 16px;
-box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
-overflow: hidden;
-">
+
+[//]: # (<a style=")
+
+[//]: # (max-width: 1000px;)
+
+[//]: # (margin: 0 auto;)
+
+[//]: # (background-color: #ffffff;)
+
+[//]: # (border-radius: 16px;)
+
+[//]: # (box-shadow: 0 8px 20px rgba&#40;0, 0, 0, 0.08&#41;;)
+
+[//]: # (overflow: hidden;)
+
+[//]: # (">)
+
+
 
 <!-- =========================== 상단 헤더 이미지 =========================== -->
-<a href="https://github.com/PHSTD" style="text-align: center; background-color: #f5f5f5;">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=PHSTD+STORY&fontAlign=70&fontColor=666666" alt="PHSTD STORY Header" style="max-width: 100%;" /> 
-</a>
+
+[//]: # (<a href="https://github.com/PHSTD" style="text-align: center; background-color: #f5f5f5;">)
+[//]: # (<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=PHSTD+STORY&fontAlign=70&fontColor=666666" alt="PHSTD STORY Header" style="max-width: 100%;" /> )
+[//]: # (</a>)
+
+<!-- =========================== 움직이는 글 =========================== -->
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=PHSTD;SYSTEM+DEVELOPER;FULL+STACK+DEVELOPER" alt="Typing SVG" />
+  </a>
+</div>
 
 <!-- =========================== 소개 영역 =========================== -->
 <div style="padding: 2rem; text-align: center;">
@@ -247,6 +265,5 @@ overflow: hidden;
 
 </div>
 
-</div> <!-- 메인 컨테이너 종료 -->
-
-</div> <!-- 전체 영역 종료 -->
+[//]: # (</a>  <!-- 메인 컨테이너 종료 -->)
+</div>  <!-- 전체 영역 종료 -->
